@@ -1,5 +1,5 @@
 package test_personal
 
-func test() {
-
+func test() string{
+return "testing .."
 }
